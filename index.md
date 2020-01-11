@@ -25,7 +25,7 @@ Shandong University, School of materials science & Engineering,Institute of Inor
 
 ![Image of bc](https://github.com/NeedleCandy/Wen-Jiaqiang.github.io/blob/master/bc.png)
 
-![Image of gh](https://github.com/NeedleCandy/Wen-Jiaqiang.github.io/blob/master/gh.png)
+![Image of gh](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/gh.png)
 
 ### Research Experience
 
