@@ -8,6 +8,9 @@ Shandong University, School of materials science & Engineering,Institute of Inor
 
 ### Research interests
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
 1. Study on the preparation technology and permeability of porous ceramics (silicon carbide, alumina)
 
 ![Image of nnn](https://github.com/NeedleCandy/Wen-Jiaqiang.github.io/blob/master/nnn.jpg)
