@@ -10,7 +10,7 @@ Shandong University, School of materials science & Engineering,Institute of Inor
 
 1. Study on the preparation technology and permeability of porous ceramics (silicon carbide, alumina)
 
-![Image of Yaktocat](https://github.com/NeedleCandy/Wen-Jiaqiang.github.io/blob/master/mmm.png)
+![Image of Yaktocat](https://github.com/NeedleCandy/Wen-Jiaqiang.github.io/blob/master/nnn.png)
 
 2. Application of environmental barrier coatings in high-temperature composite materials
 
@@ -18,7 +18,7 @@ Shandong University, School of materials science & Engineering,Institute of Inor
 
 3. Application of CoO and CoP heterostructures in catalytic performance of lithium ion air battery cathode materials
 
-![Image of Yaktocat](https://github.com/NeedleCandy/Wen-Jiaqiang.github.io/blob/master/nnn.jpg)
+![Image of Yaktocat](https://github.com/NeedleCandy/Wen-Jiaqiang.github.io/blob/master/mmm.jpg)
 
 ![Image of Yaktocat](https://github.com/NeedleCandy/Wen-Jiaqiang.github.io/blob/master/bc.png)
 
