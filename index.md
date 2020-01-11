@@ -14,6 +14,8 @@ Shandong University, School of materials science & Engineering,Institute of Inor
 
 3. Application of CoO and CoP heterostructures in catalytic performance of lithium ion air battery cathode materials
 
+![Image of Yaktocat](https://github.com/NeedleCandy/Wen-Jiaqiang.github.io/blob/master/A728C72985D0882F60497F9DEDE_A513FAEB_2ADEA.png)
+
 ### Research Experience
 
 1. Institute of Inorganic Nonmetallic Materials，Shandong University, Tutor:Jingde Zhang, 2018.9-Now
