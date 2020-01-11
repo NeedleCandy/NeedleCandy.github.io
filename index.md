@@ -4,7 +4,7 @@ Here's the homepage about Jiaqiang Wen's academic career
 
 ### Education
 
-Shandong University, School of materials science & Engineering,Institute of Inorganic Nonmetallic Materials, B.A., 2017
+Shandong University, School of materials science & Engineering,Institute of Inorganic Nonmetallic Materials, B.A., 2017.9-Now
 
 ### Research interests
 
