@@ -8,22 +8,19 @@ Shandong University, School of materials science & Engineering,Institute of Inor
 
 ### Research interests
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+Study on the preparation technology and permeability of porous ceramics (silicon carbide, alumina)
 
+![Image of nnn](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/nnn.jpg)
 
-1. Study on the preparation technology and permeability of porous ceramics (silicon carbide, alumina)
+Application of environmental barrier coatings in high-temperature composite materials
 
-![Image of nnn](https://github.com/NeedleCandy/Wen-Jiaqiang.github.io/blob/master/nnn.jpg)
+![Image of fff](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/fff.png)
 
-2. Application of environmental barrier coatings in high-temperature composite materials
+Application of CoO and CoP heterostructures in catalytic performance of lithium ion air battery cathode materials
 
-![Image of fff](https://github.com/NeedleCandy/Wen-Jiaqiang.github.io/blob/master/fff.png)
+![Image of mmm](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/mmm.png)
 
-3. Application of CoO and CoP heterostructures in catalytic performance of lithium ion air battery cathode materials
-
-![Image of mmm](https://github.com/NeedleCandy/Wen-Jiaqiang.github.io/blob/master/mmm.png)
-
-![Image of bc](https://github.com/NeedleCandy/Wen-Jiaqiang.github.io/blob/master/bc.png)
+![Image of bc](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/bc.png)
 
 ![Image of gh](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/gh.png)
 
