@@ -1,37 +1,31 @@
 ## Welcome to Wenjiaqiang's Website
 
-You can use the [editor on GitHub](https://github.com/NeedleCandy/NeedleCandy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here's the homepage about Jiaqiang Wen's academic career
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
+Shandong University, School of materials science & Engineering,Institute of Inorganic Nonmetallic Materials, B.A., 2017
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Research interests
 
-```markdown
-Syntax highlighted code block
+1.Study on the preparation technology and permeability of porous ceramics (silicon carbide, alumina)
+2.Application of environmental barrier coatings in high-temperature composite materials
+3.Application of CoO and CoP heterostructures in catalytic performance of lithium ion air battery cathode materials
 
-# Header 1
-## Header 2
-### Header 3
+### Research Experience
 
-- Bulleted
-- List
+1.Institute of Inorganic Nonmetallic Materials，Shandong University, Tutor:Jingde Zhang, 2018.9-Now
+2.Advanced Environmental Materials Group，Shanghai Institute of Ceramics, Chinese Academy of Sciences,Tutor:Kaihui Zuo, 2019.7-Now
+3.Joint Center for Carbon Nanomaterials, Shandong University,Tutor:Guifang Han, 2018.11-Now
 
-1. Numbered
-2. List
+### Research Projects
 
-**Bold** and _Italic_ and `Code` text
+1.National University Student Innovation Project of Shandong University：Research and application of porous silicon carbide honeycomb ceramics.
+Project leader，Research Fund：10000 yuan
+2. Chinese Academy of Sciences College Students Creative Practice Training Program.
+Project leader，Research Fund：5000 yuan
 
-[Link](url) and ![Image](src)
-```
+### Contact with Me
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NeedleCandy/NeedleCandy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email：wjq@mail.sdu.edu.cn
+Tel:15665860121
