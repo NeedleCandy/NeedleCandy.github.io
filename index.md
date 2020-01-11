@@ -4,7 +4,7 @@ Here's the homepage about Jiaqiang Wen's academic career
 
 ### Education
 
-Shandong University, School of materials science & Engineering,Institute of Inorganic Nonmetallic Materials, B.A., 2017.9 - Now
+Shandong University, School of materials science & Engineering,Institute of Inorganic Nonmetallic Materials, B.Sc., 2017.9 - Now
 
 ### Research interests
 
@@ -30,7 +30,7 @@ Shandong University, School of materials science & Engineering,Institute of Inor
 
 2. Advanced Environmental Materials Group，Shanghai Institute of Ceramics, Chinese Academy of Sciences,Tutor:Kaihui Zuo, 2019.7 - Now
 
-3. Joint Center for Carbon Nanomaterials, Shandong University,Tutor:Guifang Han, 2018.11 - Now
+3. Joint Center for Carbon Nanomaterials, Shandong University,Tutor:Guifang Han, 2019.11 - Now
 
 ### Research Projects
 
