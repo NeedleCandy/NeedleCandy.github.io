@@ -10,7 +10,7 @@ Shandong University, School of materials science & Engineering,Institute of Inor
 
 ##### Study on the preparation technology and permeability of porous ceramics (silicon carbide, alumina)
 
-![Image of nnn](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/nnn.jpg)
+![Image of g1](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/g1.jpg)
 
 ##### Application of environmental barrier coatings in high-temperature composite materials
 
