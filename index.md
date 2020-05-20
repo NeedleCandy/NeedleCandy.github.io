@@ -14,15 +14,15 @@ Shandong University, School of materials science & Engineering, Institute of Ino
 
 ##### 2.Application of environmental barrier coatings in high-temperature composite materials
 
-![Image of fff](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/fff.png)
+![Image of graph3](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/graph3.png)
 
 ##### 3.Application of CoO/CoP heterostructures in catalytic performance of lithium ion air battery cathode materials
 
-![Image of mmm](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/mmm.png)
+![Image of graph3](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/graph3.png)
 
-![Image of bc](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/bc.png)
+![Image of graph4](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/graph4.png)
 
-![Image of gh](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/gh.png)
+![Image of graph5](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/graph5.png)
 
 ##### 4.Application of electrocatalytic operation of 2D MXene nanomaterials in lithium-oxygen batteries
 
