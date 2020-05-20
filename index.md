@@ -24,9 +24,13 @@ Shandong University, School of materials science & Engineering, Institute of Ino
 
 ![Image of gh](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/gh.png)
 
+##### Application of electrocatalytic operation of 2D MXene nanomaterials in lithium-oxygen batteries
+
+![Image of graph2](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/graph2.png)
+
 ### Research Experience
 
-1. Institute of Inorganic Nonmetallic Materials，Shandong University, Tutor:Prof.Jingde Zhang, 2018.9 - Now.
+1. Institute of Inorganic Nonmetallic Materials，Shandong University, Tutor: Prof.Jingde Zhang, 2018.9 - Now.
 
 2. The State Key Lab of High Performance Ceramics and Superfine Microstructure, Shanghai Institute of Ceramics, Chinese Academy of Sciences,Tutor: Associate Prof. Kaihui Zuo, 2019.7 - Now.
 
@@ -42,7 +46,7 @@ Shandong University, School of materials science & Engineering, Institute of Ino
 
  Project leader，Research Fund：5000 yuan
 
-### Contact with Me
+### Welcome to contact with Me
 
 Email：wjq@mail.sdu.edu.cn
 
