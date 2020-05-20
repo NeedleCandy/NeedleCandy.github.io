@@ -1,10 +1,10 @@
 ## Welcome to Wenjiaqiang's Website
 
-Here's the homepage about Jiaqiang Wen's academic career
+Here's the homepage about Jiaqiang Wen's academic experience.
 
 ### Education
 
-Shandong University, School of materials science & Engineering,Institute of Inorganic Nonmetallic Materials, B.Sc., 2017.9 - Now
+Shandong University, School of materials science & Engineering, Institute of Inorganic Nonmetallic Materials, B.Sc., 2017.9 - Now
 
 ### Research interests
 
@@ -26,11 +26,11 @@ Shandong University, School of materials science & Engineering,Institute of Inor
 
 ### Research Experience
 
-1. Institute of Inorganic Nonmetallic Materials，Shandong University, Tutor:Prof.Jingde Zhang, 2018.9 - Now
+1. Institute of Inorganic Nonmetallic Materials，Shandong University, Tutor:Prof.Jingde Zhang, 2018.9 - Now.
 
-2. Advanced Environmental Materials Group，Shanghai Institute of Ceramics, Chinese Academy of Sciences,Tutor:Prof.Kaihui Zuo, 2019.7 - Now
+2. The State Key Lab of High Performance Ceramics and Superfine Microstructure, Shanghai Institute of Ceramics, Chinese Academy of Sciences,Tutor: Associate Prof. Kaihui Zuo, 2019.7 - Now.
 
-3. Joint Center for Carbon Nanomaterials, Shandong University,Tutor:Prof.Guifang Han, 2019.11 - Now
+3. Joint Center for Carbon Nanomaterials, Shandong University, Tutor: Prof. Guifang Han, 2019.11 - Now.
 
 ### Research Projects
 
