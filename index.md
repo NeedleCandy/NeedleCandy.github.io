@@ -16,7 +16,7 @@ Shandong University, School of materials science & Engineering, Institute of Ino
 
 ![Image of graph3](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/graph3.png)
 
-##### 3.Application of CoO/CoP heterostructures in catalytic performance of lithium ion air battery cathode materials
+##### 3.Application of CoO/CoP heterostructures in catalytic performance of Na-air battery cathode materials
 
 ![Image of graph4](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/graph4.png)
 
