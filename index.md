@@ -46,7 +46,7 @@ Shandong University, School of materials science & Engineering, Institute of Ino
 
  Project leader，Research Fund: 5000 yuan
 
-### Welcome to contact with me!
+### Welcome to contact with me !
 
 Email：wjq@mail.sdu.edu.cn
 
