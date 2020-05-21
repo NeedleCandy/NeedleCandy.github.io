@@ -8,15 +8,15 @@ Shandong University, School of materials science & Engineering, Institute of Ino
 
 ### Research interests
 
-##### 1.Study on the preparation technology and permeability of porous ceramics (silicon carbide, alumina)
+##### 1. Study on the preparation technology and permeability of porous ceramics (silicon carbide, alumina)
 
 ![Image of g1](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/g1.jpg)
 
-##### 2.Application of environmental barrier coatings in high-temperature composite materials
+##### 2. Application of environmental barrier coatings in high-temperature composite materials
 
 ![Image of graph3](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/graph3.png)
 
-##### 3.Application of CoO/CoP heterostructures in catalytic performance of Na-air battery cathode materials
+##### 3. Application of CoO/CoP heterostructures in catalytic performance of Na-air battery cathode materials
 
 ![Image of graph4](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/graph4.png)
 
@@ -24,7 +24,7 @@ Shandong University, School of materials science & Engineering, Institute of Ino
 
 ![Image of graph6](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/graph6.png)
 
-##### 4.Application of electrocatalytic operation of 2D MXene nanomaterials in lithium-oxygen batteries
+##### 4. Application of electrocatalytic operation of 2D MXene nanomaterials in lithium-oxygen batteries
 
 ![Image of graph2](https://raw.githubusercontent.com/NeedleCandy/Wen-Jiaqiang.github.io/master/graph2.png)
 
